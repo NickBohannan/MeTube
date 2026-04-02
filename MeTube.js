@@ -72,7 +72,7 @@
 
     function renameThumbnails() {
         document.querySelectorAll('.yt-core-attributed-string').forEach(el => {
-            const title = 'lol pwn3d';
+            const title = 'roflmao dorks';
             if (el && el.textContent !== title) {
                 el.textContent = title;
             }
